@@ -1,0 +1,23 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "description": "simple password generator",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "with",
+    "node"
+  ],
+  "author": "santosh",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0"
+  }
+}
